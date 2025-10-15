@@ -3,8 +3,6 @@
 $_['text_paypal']							= 'PayPal';
 $_['text_paypal_title']						= 'PayPal (Platiť cez PayPal, kartou)';
 $_['text_paypal_paylater_title']			= 'Kúpiť teraz, zaplatiť neskôr s PayPal';
-$_['text_paypal_googlepay_title']			= 'Google Pay';
-$_['text_paypal_applepay_title']			= 'Apple Pay';
 $_['text_checkout_payment_address']  		= 'Fakturačné údaje';
 $_['text_checkout_shipping_address'] 		= 'Dodacie údaje';
 $_['text_checkout_shipping_method']  		= 'Spôsob doručenia';
@@ -18,7 +16,6 @@ $_['text_week']                				= 'týždeň';
 $_['text_semi_month']          				= 'polmesiac';
 $_['text_month']               				= 'mesiac';
 $_['text_year']                				= 'rok';
-$_['text_card_number']          			= '%s končiace na %s';
 $_['text_trial']               				= '%s každých %s %s počas %s platieb, potom ';
 $_['text_recurring']          				= '%s každých %s %s';
 $_['text_recurring_item']      				= 'Opakovaná položka';
@@ -26,12 +23,9 @@ $_['text_payment_recurring']   				= 'Platobný profil';
 $_['text_trial_description']   				= '%s každých %d %s počas %d platieb, potom';
 $_['text_payment_description'] 				= '%s každých %d %s počas %d platieb';
 $_['text_payment_cancel']      				= '%s každých %d %s až do zrušenia';
-$_['text_length']							= ' počas %s platieb';
 $_['text_order_message']					= 'Ochrana predajcu PayPal - %s';
 $_['text_wait']								= 'Prosím, čakajte!';
 $_['text_loading']          				= 'Načítava sa...';
-$_['text_failure_page_title']				= 'Vaša objednávka zlyhala!';
-$_['text_failure_page_message']				= 'Ľutujeme, transakcia zlyhala! Zvoľte prosím iný spôsob platby alebo <a href="%s" target="_blank">kontaktujte nás</a>';
 
 // Column
 $_['column_image']             				= 'Obrázok';
@@ -56,7 +50,6 @@ $_['entry_zone']                    		= 'Región / štát';
 $_['entry_card_number']						= 'Číslo karty';
 $_['entry_expiration_date']					= 'Dátum exspirácie';
 $_['entry_cvv']								= 'CVV';
-$_['entry_card_save']						= 'Uložiť vašu kartu';
 
 // Button
 $_['button_confirm']  						= 'Potvrdiť';

@@ -36,4 +36,3 @@ $_['error_firstname']       = 'Meno musí mať viac ako 1 znaky a menej ako 32 z
 $_['error_lastname']        = 'Priezvisko musí mať viac ako 1 znaky a menej ako 32 znakov!';
 $_['error_email']           = 'E-mailová adresa sa zdá byť neplatná!';
 $_['error_exists_email']    = 'Upozornenie: E-mailová adresa je už registrovaná!';
-$_['error_single_user']     = 'Upozornenie: Nemôžete deaktivovať svoj vlastný účet!';

@@ -7,7 +7,6 @@ $_['text_brand']        = 'Značka';
 $_['text_index']        = 'Index značiek:';
 $_['text_error']        = 'Značka nebola nájdená!';
 $_['text_empty']        = 'Nie sú dostupné žiadne produkty na zobrazenie.';
-$_['text_no_results']   = 'Nie sú k dispozícii žiadne značky na zoznam.';
 $_['text_quantity']     = 'Množstvo:';
 $_['text_manufacturer'] = 'Výrobca:';
 $_['text_model']        = 'Model:';

@@ -36,4 +36,3 @@ $_['error_code']            = 'Kód meny musí obsahovať 3 znaky!';
 $_['error_default']         = 'Upozornenie: Túto menu nemožno odstrániť, pretože je momentálne nastavená ako predvolená mena obchodu!';
 $_['error_store']           = 'Upozornenie: Túto menu nemožno odstrániť, pretože je momentálne priradená k %s obchodom!';
 $_['error_order']           = 'Upozornenie: Túto menu nemožno odstrániť, pretože je momentálne priradená k %s objednávkam!';
-$_['error_currency_engine'] = 'Upozornenie: Nebol nájdený aktívny systém pre výmenu mien!';

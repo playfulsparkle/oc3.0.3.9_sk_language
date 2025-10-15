@@ -20,7 +20,6 @@ $_['column_total']      = 'Celkom';
 // Entry
 $_['entry_date_start']  = 'Dátum začiatku';
 $_['entry_date_end']    = 'Dátum ukončenia';
-$_['entry_status']      = 'Stav objednávky';
 $_['entry_status']      = 'Stav';
 $_['entry_sort_order']  = 'Radenie';
 

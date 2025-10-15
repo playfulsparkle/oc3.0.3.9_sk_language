@@ -57,7 +57,6 @@ $_['entry_language']                 = 'Jazyk';
 $_['entry_admin_language']           = 'Jazyk administrácie';
 $_['entry_currency']                 = 'Mena';
 $_['entry_currency_auto']            = 'Automatická aktualizácia meny';
-$_['entry_currency_engine']          = 'Systém kurzu meny';
 $_['entry_length_class']             = 'Rozmerová trieda';
 $_['entry_weight_class']             = 'Hmotnostná trieda';
 $_['entry_limit_admin']              = 'Predvolený počet položiek na stránku (Admin)';

@@ -23,7 +23,6 @@ $_['column_action']         = 'Akcia';
 $_['entry_date_start']      = 'Dátum začiatku';
 $_['entry_date_end']        = 'Dátum ukončenia';
 $_['entry_customer']		= 'Zákazník';
-$_['entry_order_status']    = 'Stav objednávky';
 $_['entry_status']          = 'Stav objednávky';
 $_['entry_sort_order']      = 'Radenie';
 
