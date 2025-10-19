@@ -3,12 +3,12 @@
 $_['heading_title']    = 'Divido Product Page Calculator';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Divido Product Page Calculator!';
-$_['text_edit']        = 'Edit Divido Product Page Calculator';
+$_['text_extension']   = 'Rozšírenia';
+$_['text_success']     = 'Úspech: Upravili ste modul Divido Product Page Calculator!';
+$_['text_edit']        = 'Upraviť Divido Product Page Calculator';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Stav';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Divido Product Page Calculator!';
+$_['error_permission'] = 'Upozornenie: Nemáte oprávnenie upravovať modul Divido Product Page Calculator!';

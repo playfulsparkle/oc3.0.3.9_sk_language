@@ -1,15 +1,15 @@
 <?php
 // Calculator
-$_['text_checkout_title']      = 'Pay in instalments';
-$_['text_choose_plan']         = 'Choose your plan';
-$_['text_choose_deposit']      = 'Choose your deposit';
-$_['text_monthly_payments']    = 'monthly payments of';
-$_['text_months']              = 'months';
-$_['text_term']                = 'Term';
-$_['text_deposit']             = 'Deposit';
-$_['text_credit_amount']       = 'Cost of credit';
-$_['text_amount_payable']      = 'Total payable';
-$_['text_total_interest']      = 'Total interest APR';
-$_['text_monthly_installment'] = 'Monthly installment';
-$_['text_redirection']         = 'You will be redirected to Divido to complete this finance application when you confirm your order';
+$_['text_checkout_title']      = 'Platba na splátky';
+$_['text_choose_plan']         = 'Vyberte si plán';
+$_['text_choose_deposit']      = 'Vyberte výšku akontácie';
+$_['text_monthly_payments']    = 'mesačné splátky vo výške';
+$_['text_months']              = 'mesiacov';
+$_['text_term']                = 'Doba splácania';
+$_['text_deposit']             = 'Akontácia';
+$_['text_credit_amount']       = 'Náklady na úver';
+$_['text_amount_payable']      = 'Celková suma na úhradu';
+$_['text_total_interest']      = 'Celkové úroky (APR)';
+$_['text_monthly_installment'] = 'Mesačná splátka';
+$_['text_redirection']         = 'Po potvrdení objednávky budete presmerovaní na stránku Divido na dokončenie žiadosti o financovanie';
 $_['text_divido']              = 'Divido';
