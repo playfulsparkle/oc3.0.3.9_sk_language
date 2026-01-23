@@ -1,7 +1,7 @@
 {
   "name": "oc3.0.3.9_sk_language",
   "version": "1.0.0",
-  "description": "Slovak (formal) language for OpenCart 3.0.3.9",
+  "description": "Slovak (formal) language for OpenCart 3.0.0.0-3.0.3.9",
   "main": "index.js",
   "scripts": {
     "compress": "node compress.js"
